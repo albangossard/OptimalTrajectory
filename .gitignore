@@ -1,0 +1,6 @@
+.vscode/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+OptimalTrajectory
+cmake_install.cmake
